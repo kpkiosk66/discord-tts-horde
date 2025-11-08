@@ -1,0 +1,5 @@
+/node_modules
+/dist
+.env
+child_token_test.json
+/temp
