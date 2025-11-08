@@ -2,4 +2,5 @@
 /dist
 .env
 child_token_test.json
+child_token.json
 /temp
